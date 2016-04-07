@@ -2,9 +2,8 @@ package com.ss.s;
 
 public class aa {
 
-private void mian() {
-	// TODO Auto-generated method stub
-	System.out.println("sjn");
+public static void main(String[] args) {
+	
 }
 }
  
