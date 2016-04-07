@@ -6,6 +6,7 @@ private void mian() {
 	// TODO Auto-generated method stub
 	System.out.println("sjn");
 	System.out.println("mmmmmmmmmmm");
+	System.out.println("kkkkkkkkk");
 }
 }
  
